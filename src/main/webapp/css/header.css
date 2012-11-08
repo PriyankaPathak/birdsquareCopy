@@ -1,0 +1,54 @@
+@import url(http://fonts.googleapis.com/css?family=Chela+One);
+
+#submitbutton{
+      font-size: 60;
+}
+
+.ui-header .ui-title {
+    font-size: 25px;
+    font-family: "Chela One", sans-serif;
+    margin-left: -20%;
+}
+
+.ui-header .ui-title a:link{
+    color: white;
+    text-decoration: none;
+}
+.ui-header .ui-title a:visited{
+    color: white;
+    text-decoration: none;
+}
+.ui-header .ui-title a:hover{
+    color: white;
+    text-decoration: none;
+}
+
+.ui-header .ui-btn-inner {
+    font-size: 15px;
+}
+
+.ui-header {
+    position: relative;
+}
+
+.ui-header .ui-btn-right {
+    top: 20%;
+    vertical-align: middle;
+}
+
+.ui-btn-inner {
+    overflow: visible;
+}
+
+.ui-footer .ui-btn-text{
+    font-size: 15px;
+}
+
+.ui-li .ui-btn-text a.ui-link-inherit{
+    white-space: normal;
+    font-size: 13px;
+}
+
+.ui-content{
+    height:300px;
+}

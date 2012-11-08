@@ -1,0 +1,17 @@
+# Compiled files and IntelliJ specific files #
+*.class
+*.iml
+*.iws
+*.ipr
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Directories that we don't want to track #
+.idea/
+.gradle/
+out/
+build/
+artifacts/
